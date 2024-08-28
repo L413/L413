@@ -9,11 +9,12 @@
 </div>
 
 ## <img src="icons/languages.png" width=23/> Languages I use:
-![Python](https://img.shields.io/badge/Python-4f9e81?style=for-the-badge&logo=python&logoColor=white)
+![LUA](https://img.shields.io/badge/LUA-4f9e81?style=for-the-badge&logo=css3&logoColor=white)
+![Javascript](https://img.shields.io/badge/Javascript-4f9e81?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-4f9e81?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-4f9e81?style=for-the-badge&logo=css3&logoColor=white)
-![LUA](https://img.shields.io/badge/LUA-4f9e81?style=for-the-badge&logo=css3&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-4f9e81?style=for-the-badge&logo=markdown&logoColor=white)
+![Python](https://img.shields.io/badge/Python-4f9e81?style=for-the-badge&logo=python&logoColor=white)
 
 ## <img src="icons/programs.png" width=23/> Programs I use:
 ![Chrome](https://img.shields.io/badge/Main%20Browser-34735C?style=for-the-badge&logo=Google-chrome&logoColor=white&label=Chrome&labelColor=41856C)
