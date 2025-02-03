@@ -9,8 +9,8 @@
 </div>
 
 ## <img src="icons/languages.png" width=23/> Languages I use:
-![LUA](https://img.shields.io/badge/LUA-4f9e81?style=for-the-badge&logo=css3&logoColor=white)
-![Javascript](https://img.shields.io/badge/Javascript-4f9e81?style=for-the-badge&logo=css3&logoColor=white)
+![LUA](https://img.shields.io/badge/LUA-4f9e81?style=for-the-badge&logo=lua&logoColor=white)
+![Javascript](https://img.shields.io/badge/Javascript-4f9e81?style=for-the-badge&logo=javascript&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-4f9e81?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-4f9e81?style=for-the-badge&logo=css3&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-4f9e81?style=for-the-badge&logo=markdown&logoColor=white)
